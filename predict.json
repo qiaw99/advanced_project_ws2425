@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "user_question": "What's the prediction for 'the Pacific Ocean is made of saltwater'",
+    "operation_name": "predict",
+    "custom_input": "the Pacific Ocean is made of saltwater"
+  },
+  {
+    "idx": 1,
+    "user_question": "Can you predict 'water boils at 100 degrees Celsius'?",
+    "operation_name": "predict",
+    "custom_input": "water boils at 100 degrees Celsius"
+  },
+  {
+    "idx": 2,
+    "user_question": "What is the prediction for 'dogs are mammals'?",
+    "operation_name": "predict",
+    "custom_input": "dogs are mammals"
+  },
+  {
+    "idx": 3,
+    "user_question": "I want a prediction for whether 'the Earth orbits the Sun'.",
+    "operation_name": "predict",
+    "custom_input": "the Earth orbits the Sun"
+  },
+  {
+    "idx": 4,
+    "user_question": "Do you have a prediction about 'birds can fly'?",
+    "operation_name": "predict",
+    "custom_input": "birds can fly"
+  },
+  {
+    "idx": 5,
+    "user_question": "What's your prediction for the statement 'fire is hot'?",
+    "operation_name": "predict",
+    "custom_input": "fire is hot"
+  },
+  {
+    "idx": 6,
+    "user_question": "Can you give me a prediction for 'Mount Everest is the highest mountain in the world'?",
+    "operation_name": "predict",
+    "custom_input": "Mount Everest is the highest mountain in the world"
+  },
+  {
+    "idx": 7,
+    "user_question": "Could you predict if 'the moon reflects sunlight' is accurate?",
+    "operation_name": "predict",
+    "custom_input": "the moon reflects sunlight"
+  },
+  {
+    "idx": 8,
+    "user_question": "Please provide a prediction regarding 'most plants need sunlight to grow'.",
+    "operation_name": "predict",
+    "custom_input": "most plants need sunlight to grow"
+  },
+  {
+    "idx": 9,
+    "user_question": "I want you to predict if 'a triangle has three sides' is true.",
+    "operation_name": "predict",
+    "custom_input": "a triangle has three sides"
+  },
+  {
+    "idx": 10,
+    "user_question": "Could you make a prediction about 'a year has 365 days'?",
+    "operation_name": "predict",
+    "custom_input": "a year has 365 days"
+  },
+  {
+    "idx": 11,
+    "user_question": "What prediction can you make regarding 'the Amazon rainforest produces a significant portion of the world's oxygen'?",
+    "operation_name": "predict",
+    "custom_input": "the Amazon rainforest produces a significant portion of the world's oxygen"
+  },
+  {
+    "idx": 12,
+    "user_question": "Can you provide a prediction for 'the Great Wall of China is visible from space with the naked eye'?",
+    "operation_name": "predict",
+    "custom_input": "the Great Wall of China is visible from space with the naked eye"
+  },
+  {
+    "idx": 13,
+    "user_question": "I would like to know your prediction about 'human activities contribute significantly to global climate change'.",
+    "operation_name": "predict",
+    "custom_input": "human activities contribute significantly to global climate change"
+  },
+  {
+    "idx": 14,
+    "user_question": "What is your prediction for the statement 'Venus is often referred to as Earth's sister planet because of its similar size and composition'?",
+    "operation_name": "predict",
+    "custom_input": "Venus is often referred to as Earth's sister planet because of its similar size and composition"
+  },
+  {
+    "idx": 15,
+    "user_question": "Can you predict if 'Albert Einstein developed the theory of relativity, which changed the way we understand space and time' is true?",
+    "operation_name": "predict",
+    "custom_input": "Albert Einstein developed the theory of relativity, which changed the way we understand space and time"
+  },
+  {
+    "idx": 16,
+    "user_question": "Could you give me a prediction regarding 'most of Earth's surface is covered by water, accounting for approximately 71 percent of the total area'?",
+    "operation_name": "predict",
+    "custom_input": "most of Earth's surface is covered by water, accounting for approximately 71 percent of the total area"
+  },
+  {
+    "idx": 17,
+    "user_question": "Do you have a prediction about 'the speed of light in a vacuum is approximately 299,792 kilometers per second, which is considered a universal constant'?",
+    "operation_name": "predict",
+    "custom_input": "the speed of light in a vacuum is approximately 299,792 kilometers per second, which is considered a universal constant"
+  },
+  {
+    "idx": 18,
+    "user_question": "I want a prediction about 'the invention of the printing press by Johannes Gutenberg had a major impact on the spread of information during the Renaissance'.",
+    "operation_name": "predict",
+    "custom_input": "the invention of the printing press by Johannes Gutenberg had a major impact on the spread of information during the Renaissance"
+  },
+  {
+    "idx": 19,
+    "user_question": "Please provide a prediction for 'dinosaurs went extinct around 65 million years ago, possibly due to an asteroid impact that caused massive environmental changes'.",
+    "operation_name": "predict",
+    "custom_input": "dinosaurs went extinct around 65 million years ago, possibly due to an asteroid impact that caused massive environmental changes"
+  },
+  {
+    "idx": 20,
+    "user_question": "Could you predict if 'the Industrial Revolution marked a major turning point in human history, leading to massive economic and technological advancements' is correct?",
+    "operation_name": "predict",
+    "custom_input": "the Industrial Revolution marked a major turning point in human history, leading to massive economic and technological advancements"
+  }
+]

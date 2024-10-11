@@ -1,0 +1,189 @@
+[
+  {
+    "idx": 0,
+    "user_question": "What's the most similar instance to 'Cold Water Boils Faster Than Hot Water'!",
+    "operation_name": "similar",
+    "custom_input": "Cold Water Boils Faster Than Hot Water"
+  },
+  {
+    "idx": 1,
+    "user_question": "Can you find the most similar instance to 'Lightning Never Strikes the Same Place Twice'?",
+    "operation_name": "similar",
+    "custom_input": "Lightning Never Strikes the Same Place Twice"
+  },
+  {
+    "idx": 2,
+    "user_question": "What is the most similar example in the dataset to 'Goldfish Have a Three-Second Memory'?",
+    "operation_name": "similar",
+    "custom_input": "Goldfish Have a Three-Second Memory"
+  },
+  {
+    "idx": 3,
+    "user_question": "Please provide me with an instance similar to 'Humans Only Use 10 Percent of Their Brain Capacity'.",
+    "operation_name": "similar",
+    "custom_input": "Humans Only Use 10 Percent of Their Brain Capacity"
+  },
+  {
+    "idx": 4,
+    "user_question": "Can you provide a similar example for 'The Great Wall of China Is Visible from Space with the Naked Eye'?",
+    "operation_name": "similar",
+    "custom_input": "The Great Wall of China Is Visible from Space with the Naked Eye"
+  },
+  {
+    "idx": 5,
+    "user_question": "Find the most similar instance to 'You Swallow Eight Spiders a Year in Your Sleep'.",
+    "operation_name": "similar",
+    "custom_input": "You Swallow Eight Spiders a Year in Your Sleep"
+  },
+  {
+    "idx": 6,
+    "user_question": "Can you retrieve a similar example from the dataset for 'Sugar Causes Hyperactivity in Children'?",
+    "operation_name": "similar",
+    "custom_input": "Sugar Causes Hyperactivity in Children"
+  },
+  {
+    "idx": 7,
+    "user_question": "What is a similar statement to 'Ostriches Bury Their Heads in the Sand When Frightened'?",
+    "operation_name": "similar",
+    "custom_input": "Ostriches Bury Their Heads in the Sand When Frightened"
+  },
+  {
+    "idx": 8,
+    "user_question": "Please identify an instance similar to 'Bulls Become Enraged by the Color Red'.",
+    "operation_name": "similar",
+    "custom_input": "Bulls Become Enraged by the Color Red"
+  },
+  {
+    "idx": 9,
+    "user_question": "Can you provide a similar instance for 'Bananas Grow on Trees, Just Like Apples and Oranges'?",
+    "operation_name": "similar",
+    "custom_input": "Bananas Grow on Trees, Just Like Apples and Oranges"
+  },
+  {
+    "idx": 10,
+    "user_question": "Find the most similar statement to 'Carrots Improve Your Vision and Help You See in the Dark' in the dataset.",
+    "operation_name": "similar",
+    "custom_input": "Carrots Improve Your Vision and Help You See in the Dark"
+  },
+  {
+    "idx": 11,
+    "user_question": "Can you determine the most similar example to 'A Penny Dropped from the Empire State Building Can Kill Someone'?",
+    "operation_name": "similar",
+    "custom_input": "A Penny Dropped from the Empire State Building Can Kill Someone"
+  },
+  {
+    "idx": 12,
+    "user_question": "Provide me with the instance most similar to 'Cracking Your Knuckles Causes Arthritis' from the dataset.",
+    "operation_name": "similar",
+    "custom_input": "Cracking Your Knuckles Causes Arthritis"
+  },
+  {
+    "idx": 13,
+    "user_question": "What is a similar instance to 'Camels Store Water in Their Humps' in the dataset?",
+    "operation_name": "similar",
+    "custom_input": "Camels Store Water in Their Humps"
+  },
+  {
+    "idx": 14,
+    "user_question": "Could you find an instance similar to 'Bats Are Blind and Always Use Echolocation to Navigate'?",
+    "operation_name": "similar",
+    "custom_input": "Bats Are Blind and Always Use Echolocation to Navigate"
+  },
+  {
+    "idx": 15,
+    "user_question": "Please provide a similar example for 'Dogs Age Seven Years for Every Human Year'?",
+    "operation_name": "similar",
+    "custom_input": "Dogs Age Seven Years for Every Human Year"
+  },
+  {
+    "idx": 16,
+    "user_question": "Can you find the most similar statement to 'The Bermuda Triangle Causes Planes and Ships to Mysteriously Disappear Without a Trace'?",
+    "operation_name": "similar",
+    "custom_input": "The Bermuda Triangle Causes Planes and Ships to Mysteriously Disappear Without a Trace"
+  },
+  {
+    "idx": 17,
+    "user_question": "Please provide a similar instance to 'Shaving Hair Makes It Grow Back Thicker and Darker' from the dataset.",
+    "operation_name": "similar",
+    "custom_input": "Shaving Hair Makes It Grow Back Thicker and Darker"
+  },
+  {
+    "idx": 18,
+    "user_question": "What is a similar example in the dataset to 'Humans Lose Most of Their Body Heat Through Their Heads'?",
+    "operation_name": "similar",
+    "custom_input": "Humans Lose Most of Their Body Heat Through Their Heads"
+  },
+  {
+    "idx": 19,
+    "user_question": "Can you identify an instance similar to 'Touching a Baby Bird Will Cause Its Mother to Reject It'?",
+    "operation_name": "similar",
+    "custom_input": "Touching a Baby Bird Will Cause Its Mother to Reject It"
+  },
+  {
+    "idx": 20,
+    "user_question": "Please retrieve a similar statement to 'The Dark Side of the Moon Is Always Dark and Receives No Sunlight' from the dataset.",
+    "operation_name": "similar",
+    "custom_input": "The Dark Side of the Moon Is Always Dark and Receives No Sunlight"
+  },
+  {
+    "idx": 21,
+    "user_question": "Can you find the most similar example to 'Fingernails and Hair Keep Growing After Death'?",
+    "operation_name": "similar",
+    "custom_input": "Fingernails and Hair Keep Growing After Death"
+  },
+  {
+    "idx": 22,
+    "user_question": "What is the closest similar instance to 'The Five-Second Rule Ensures That Dropped Food Is Safe to Eat'?",
+    "operation_name": "similar",
+    "custom_input": "The Five-Second Rule Ensures That Dropped Food Is Safe to Eat"
+  },
+  {
+    "idx": 23,
+    "user_question": "Could you provide an instance that is most similar to 'A Mother Bird Will Abandon Her Chicks If Humans Touch Them'?",
+    "operation_name": "similar",
+    "custom_input": "A Mother Bird Will Abandon Her Chicks If Humans Touch Them"
+  },
+  {
+    "idx": 24,
+    "user_question": "Please find the most similar statement to 'Swallowed Gum Stays in Your Stomach for Seven Years Before Digesting'.",
+    "operation_name": "similar",
+    "custom_input": "Swallowed Gum Stays in Your Stomach for Seven Years Before Digesting"
+  },
+  {
+    "idx": 25,
+    "user_question": "What is the most similar instance to 'Cracking Your Knuckles Will Lead to Developing Arthritis Later in Life'?",
+    "operation_name": "similar",
+    "custom_input": "Cracking Your Knuckles Will Lead to Developing Arthritis Later in Life"
+  },
+  {
+    "idx": 26,
+    "user_question": "Can you retrieve a similar statement from the dataset for 'The Left and Right Hemispheres of the Brain Have Completely Separate Functions'?",
+    "operation_name": "similar",
+    "custom_input": "The Left and Right Hemispheres of the Brain Have Completely Separate Functions"
+  },
+  {
+    "idx": 27,
+    "user_question": "Could you identify an instance that is similar to 'A Full Moon Increases the Likelihood of Strange Human Behaviors and Events'?",
+    "operation_name": "similar",
+    "custom_input": "A Full Moon Increases the Likelihood of Strange Human Behaviors and Events"
+  },
+  {
+    "idx": 28,
+    "user_question": "Can you provide the most similar example to 'Humans Cannot Grow New Brain Cells Once They Are Lost' in the dataset?",
+    "operation_name": "similar",
+    "custom_input": "Humans Cannot Grow New Brain Cells Once They Are Lost"
+  },
+  {
+    "idx": 29,
+    "user_question": "Please find a similar instance for 'Bulls Are Provoked to Attack Because They Hate the Color Red' in the data.",
+    "operation_name": "similar",
+    "custom_input": "Bulls Are Provoked to Attack Because They Hate the Color Red"
+  },
+  {
+    "idx": 30,
+    "user_question": "What is the closest statement to 'A Goldfish's Memory Lasts Only a Few Seconds, Making Them Constantly Forgetful' that you can find?",
+    "operation_name": "similar",
+    "custom_input": "A Goldfish's Memory Lasts Only a Few Seconds, Making Them Constantly Forgetful"
+  }
+]
+

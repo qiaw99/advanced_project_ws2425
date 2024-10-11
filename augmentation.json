@@ -1,0 +1,129 @@
+[
+  {
+    "idx": 0,
+    "user_question": "Augment 'Toilet Water Swirls in Different Directions Depending on Hemisphere'!",
+    "operation_name": "augment",
+    "custom_input": "Toilet Water Swirls in Different Directions Depending on Hemisphere"
+  },
+  {
+    "idx": 1,
+    "user_question": "Can you create augmented instances of 'Bats are the only mammals capable of sustained flight'?",
+    "operation_name": "augment",
+    "custom_input": "Bats are the only mammals capable of sustained flight"
+  },
+  {
+    "idx": 2,
+    "user_question": "Apply data augmentation on 'The Great Wall of China is not actually visible from space with the naked eye'.",
+    "operation_name": "augment",
+    "custom_input": "The Great Wall of China is not actually visible from space with the naked eye"
+  },
+  {
+    "idx": 3,
+    "user_question": "Please augment the statement 'Gold is a highly conductive and non-reactive metal often used in electronics'.",
+    "operation_name": "augment",
+    "custom_input": "Gold is a highly conductive and non-reactive metal often used in electronics"
+  },
+  {
+    "idx": 4,
+    "user_question": "Could you provide augmented variations of 'Lightning never strikes the same place twice'?",
+    "operation_name": "augment",
+    "custom_input": "Lightning never strikes the same place twice"
+  },
+  {
+    "idx": 5,
+    "user_question": "Create some augmented instances for 'Bananas are berries, but strawberries are not'!",
+    "operation_name": "augment",
+    "custom_input": "Bananas are berries, but strawberries are not"
+  },
+  {
+    "idx": 6,
+    "user_question": "Please apply data augmentation to 'Venus is hotter than Mercury due to its dense atmosphere trapping heat'.",
+    "operation_name": "augment",
+    "custom_input": "Venus is hotter than Mercury due to its dense atmosphere trapping heat"
+  },
+  {
+    "idx": 7,
+    "user_question": "Can you generate augmented versions of 'Octopuses have three hearts, and their blood is blue because of copper-based hemocyanin'?",
+    "operation_name": "augment",
+    "custom_input": "Octopuses have three hearts, and their blood is blue because of copper-based hemocyanin"
+  },
+  {
+    "idx": 8,
+    "user_question": "Please create augmented data for 'The Eiffel Tower can grow up to six inches taller in the summer due to heat expansion'.",
+    "operation_name": "augment",
+    "custom_input": "The Eiffel Tower can grow up to six inches taller in the summer due to heat expansion"
+  },
+  {
+    "idx": 9,
+    "user_question": "Augment the input 'Sharks have been around longer than trees, existing for over 400 million years'.",
+    "operation_name": "augment",
+    "custom_input": "Sharks have been around longer than trees, existing for over 400 million years"
+  },
+  {
+    "idx": 10,
+    "user_question": "Can you augment 'A leap year occurs every four years to keep the calendar in alignment with the Earth's revolutions around the Sun'?",
+    "operation_name": "augment",
+    "custom_input": "A leap year occurs every four years to keep the calendar in alignment with the Earth's revolutions around the Sun"
+  },
+  {
+    "idx": 11,
+    "user_question": "Can you augment 'Jupiter's Great Red Spot is a giant storm that has been raging for centuries, and it is larger than the diameter of Earth'?",
+    "operation_name": "augment",
+    "custom_input": "Jupiter's Great Red Spot is a giant storm that has been raging for centuries, and it is larger than the diameter of Earth"
+  },
+  {
+    "idx": 12,
+    "user_question": "Please provide augmented variations of 'Honey never spoils because of its natural antibacterial properties, and jars of honey have been found in ancient tombs still safe to eat'.",
+    "operation_name": "augment",
+    "custom_input": "Honey never spoils because of its natural antibacterial properties, and jars of honey have been found in ancient tombs still safe to eat"
+  },
+  {
+    "idx": 13,
+    "user_question": "Could you generate augmented instances of 'A group of flamingos is called a 'flamboyance', and their pink color is a result of carotenoid pigments in their diet'?",
+    "operation_name": "augment",
+    "custom_input": "A group of flamingos is called a 'flamboyance', and their pink color is a result of carotenoid pigments in their diet"
+  },
+  {
+    "idx": 14,
+    "user_question": "Apply data augmentation on 'Saturn's rings are composed of billions of particles ranging from tiny ice grains to objects as large as houses, reflecting sunlight beautifully'.",
+    "operation_name": "augment",
+    "custom_input": "Saturn's rings are composed of billions of particles ranging from tiny ice grains to objects as large as houses, reflecting sunlight beautifully"
+  },
+  {
+    "idx": 15,
+    "user_question": "Create augmented data for 'The process of making maple syrup involves tapping sugar maple trees for sap, which is then boiled down until it thickens into syrup, requiring about 40 gallons of sap for just one gallon of syrup'!",
+    "operation_name": "augment",
+    "custom_input": "The process of making maple syrup involves tapping sugar maple trees for sap, which is then boiled down until it thickens into syrup, requiring about 40 gallons of sap for just one gallon of syrup"
+  },
+  {
+    "idx": 16,
+    "user_question": "Can you provide augmented instances of 'The giant sequoia trees found in California are some of the largest and oldest living organisms on Earth, with some trees estimated to be over 3,000 years old and reaching heights of over 250 feet'?",
+    "operation_name": "augment",
+    "custom_input": "The giant sequoia trees found in California are some of the largest and oldest living organisms on Earth, with some trees estimated to be over 3,000 years old and reaching heights of over 250 feet"
+  },
+  {
+    "idx": 17,
+    "user_question": "Please augment 'The Mariana Trench is the deepest part of the world's oceans, located in the western Pacific Ocean, and reaches depths of over 36,000 feet, making it one of the least explored places on Earth'.",
+    "operation_name": "augment",
+    "custom_input": "The Mariana Trench is the deepest part of the world's oceans, located in the western Pacific Ocean, and reaches depths of over 36,000 feet, making it one of the least explored places on Earth"
+  },
+  {
+    "idx": 18,
+    "user_question": "Can you create augmented versions of 'The process of fermentation, which has been used for thousands of years, involves converting sugars into alcohol or acids by microorganisms like yeast and bacteria, used to make products like bread, beer, and yogurt'?",
+    "operation_name": "augment",
+    "custom_input": "The process of fermentation, which has been used for thousands of years, involves converting sugars into alcohol or acids by microorganisms like yeast and bacteria, used to make products like bread, beer, and yogurt"
+  },
+  {
+    "idx": 19,
+    "user_question": "Could you augment the statement 'Diamonds are formed under extreme pressure and temperature conditions deep within the Earth's mantle, typically at depths of 90 to 150 miles below the surface, and are brought closer by volcanic activity'?",
+    "operation_name": "augment",
+    "custom_input": "Diamonds are formed under extreme pressure and temperature conditions deep within the Earth's mantle, typically at depths of 90 to 150 miles below the surface, and are brought closer by volcanic activity"
+  },
+  {
+    "idx": 20,
+    "user_question": "Provide augmented instances of 'The process of evaporation is key to the water cycle, where water from oceans, lakes, and rivers turns into vapor and rises into the atmosphere before eventually falling back as precipitation'!",
+    "operation_name": "augment",
+    "custom_input": "The process of evaporation is key to the water cycle, where water from oceans, lakes, and rivers turns into vapor and rises into the atmosphere before eventually falling back as precipitation"
+  }
+]
+

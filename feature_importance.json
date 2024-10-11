@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "user_question": "Could you provide me feature importance score regarding 'Pineapple does not grow on trees'?",
+    "operation_name": "importance",
+    "custom_input": "Pineapple does not grow on trees"
+  },
+  {
+    "idx": 1,
+    "user_question": "Can you provide the feature importance score for 'The sun rises in the east'?",
+    "operation_name": "importance",
+    "custom_input": "The sun rises in the east"
+  },
+  {
+    "idx": 2,
+    "user_question": "What are the most important words in the statement 'Polar bears live in the Arctic'?",
+    "operation_name": "importance",
+    "custom_input": "Polar bears live in the Arctic"
+  },
+  {
+    "idx": 3,
+    "user_question": "Could you tell me the feature attribution for 'Bananas are a rich source of potassium'?",
+    "operation_name": "importance",
+    "custom_input": "Bananas are a rich source of potassium"
+  },
+  {
+    "idx": 4,
+    "user_question": "Please provide me the feature importance for 'Sharks have been around for millions of years'.",
+    "operation_name": "importance",
+    "custom_input": "Sharks have been around for millions of years"
+  },
+  {
+    "idx": 5,
+    "user_question": "What is the feature importance score for the statement 'Mount Everest is the tallest mountain on Earth'?",
+    "operation_name": "importance",
+    "custom_input": "Mount Everest is the tallest mountain on Earth"
+  },
+  {
+    "idx": 6,
+    "user_question": "Could you highlight the most important tokens in 'Roses are red and violets are blue'?",
+    "operation_name": "importance",
+    "custom_input": "Roses are red and violets are blue"
+  },
+  {
+    "idx": 7,
+    "user_question": "I would like to know the feature importance score for 'The Eiffel Tower is located in Paris'.",
+    "operation_name": "importance",
+    "custom_input": "The Eiffel Tower is located in Paris"
+  },
+  {
+    "idx": 8,
+    "user_question": "Can you provide feature attribution details for 'Cheetahs are the fastest land animals'?",
+    "operation_name": "importance",
+    "custom_input": "Cheetahs are the fastest land animals"
+  },
+  {
+    "idx": 9,
+    "user_question": "Please tell me which words are most important in 'Honeybees communicate through dance'.",
+    "operation_name": "importance",
+    "custom_input": "Honeybees communicate through dance"
+  },
+  {
+    "idx": 10,
+    "user_question": "Could you provide the feature importance score for 'Water boils at 100 degrees Celsius at sea level'?",
+    "operation_name": "importance",
+    "custom_input": "Water boils at 100 degrees Celsius at sea level"
+  },
+  {
+    "idx": 11,
+    "user_question": "Can you provide me the feature importance score regarding 'Blue whales are the largest animals ever known to have lived on Earth, reaching lengths of up to 100 feet'?",
+    "operation_name": "importance",
+    "custom_input": "Blue whales are the largest animals ever known to have lived on Earth, reaching lengths of up to 100 feet"
+  },
+  {
+    "idx": 12,
+    "user_question": "What are the most important words in the statement 'Solar panels convert sunlight into electricity through the use of photovoltaic cells, which are often made of silicon'?",
+    "operation_name": "importance",
+    "custom_input": "Solar panels convert sunlight into electricity through the use of photovoltaic cells, which are often made of silicon"
+  },
+  {
+    "idx": 13,
+    "user_question": "Could you give me the feature attribution for 'The Amazon rainforest, often referred to as the lungs of the Earth, plays a crucial role in regulating the planet's climate by absorbing carbon dioxide'?",
+    "operation_name": "importance",
+    "custom_input": "The Amazon rainforest, often referred to as the lungs of the Earth, plays a crucial role in regulating the planet's climate by absorbing carbon dioxide"
+  },
+  {
+    "idx": 14,
+    "user_question": "Please provide me the feature importance for 'The Great Barrier Reef is the world's largest coral reef system and is home to an incredible diversity of marine life, including over 1,500 species of fish'?",
+    "operation_name": "importance",
+    "custom_input": "The Great Barrier Reef is the world's largest coral reef system and is home to an incredible diversity of marine life, including over 1,500 species of fish"
+  },
+  {
+    "idx": 15,
+    "user_question": "Can you explain the feature importance score for 'Albert Einstein's theory of general relativity revolutionized our understanding of gravity, describing it as the curvature of space-time'?",
+    "operation_name": "importance",
+    "custom_input": "Albert Einstein's theory of general relativity revolutionized our understanding of gravity, describing it as the curvature of space-time"
+  },
+  {
+    "idx": 16,
+    "user_question": "Can you highlight the most important words in the statement 'The greenhouse effect is a natural phenomenon that warms the Earth's surface, but human activities have amplified its impact, leading to climate change'?",
+    "operation_name": "importance",
+    "custom_input": "The greenhouse effect is a natural phenomenon that warms the Earth's surface, but human activities have amplified its impact, leading to climate change"
+  },
+  {
+    "idx": 17,
+    "user_question": "I would like to know the feature importance for 'The process of photosynthesis allows plants to convert carbon dioxide and sunlight into oxygen and glucose, which is essential for their growth'?",
+    "operation_name": "importance",
+    "custom_input": "The process of photosynthesis allows plants to convert carbon dioxide and sunlight into oxygen and glucose, which is essential for their growth"
+  },
+  {
+    "idx": 18,
+    "user_question": "Can you provide feature attribution details for 'Lightning occurs as a result of the imbalance between positive and negative charges within clouds and between the clouds and the ground'?",
+    "operation_name": "importance",
+    "custom_input": "Lightning occurs as a result of the imbalance between positive and negative charges within clouds and between the clouds and the ground"
+  },
+  {
+    "idx": 19,
+    "user_question": "Please tell me which words are most important in 'The Antarctic ice sheet contains about 60 percent of the world's fresh water, and if it melted, it would cause significant sea level rise'?",
+    "operation_name": "importance",
+    "custom_input": "The Antarctic ice sheet contains about 60 percent of the world's fresh water, and if it melted, it would cause significant sea level rise"
+  },
+  {
+    "idx": 20,
+    "user_question": "Could you provide the feature importance score for 'Human brains contain about 86 billion neurons, each of which can form thousands of synaptic connections, enabling complex processing and learning'?",
+    "operation_name": "importance",
+    "custom_input": "Human brains contain about 86 billion neurons, each of which can form thousands of synaptic connections, enabling complex processing and learning"
+  }
+]

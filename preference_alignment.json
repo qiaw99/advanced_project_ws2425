@@ -1,0 +1,178 @@
+[
+  {
+    "idx": 0,
+    "user_question": "I want to provide my preference regarding 'How can I get to the city center?': 'Take the bus from the nearest station.' is chosen, while 'Take the bus from the nearest station, which runs every 20 minutes, and takes about 30 minutes to reach the city center' is rejected",
+    "operation_name": "preference_alignment",
+    "custom_input": "How can I get to the city center?",
+    "content": "'Take the bus from the nearest station'<s>'Take the bus from the nearest station, which runs every 20 minutes, and takes about 30 minutes to reach the city center'"
+  },
+  {
+    "idx": 1,
+    "user_question": "Here is my preference to the question 'hello?'. 'hi nice to meet you' is preferred, while 'leave me alone' not",
+    "operation_name": "preference_alignment",
+    "custom_input": "hello",
+    "content": "'hi nice to meet you'<s>'leave me alone'"
+  },
+  {
+    "idx": 2,
+    "user_question": "I would like to provide my preference regarding 'What is the best way to cook pasta?': 'Boil it in salted water until al dente' is my choice, whereas 'Boil it in water without adding any salt' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What is the best way to cook pasta?",
+    "content": "'Boil it in salted water until al dente'<s>'Boil it in water without adding any salt'"
+  },
+  {
+    "idx": 3,
+    "user_question": "My preference for 'How should I greet my new neighbors?' is as follows: 'Introduce myself with a smile and ask if they need anything' is preferred, while 'Ignore them until they approach me first' is rejected.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I greet my new neighbors?",
+    "content": "'Introduce myself with a smile and ask if they need anything'<s>'Ignore them until they approach me first'"
+  },
+  {
+    "idx": 4,
+    "user_question": "Here is my preference regarding 'What should I do if I can't sleep at night?': 'Try deep breathing exercises and avoid screen time' is preferred, while 'Stay awake watching TV until I get tired' is disliked.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What should I do if I can't sleep at night?",
+    "content": "'Try deep breathing exercises and avoid screen time'<s>'Stay awake watching TV until I get tired'"
+  },
+  {
+    "idx": 5,
+    "user_question": "Regarding my preference for 'How do I stay motivated to exercise?': I prefer 'Set small, achievable goals and reward myself' over 'Wait until I feel like doing it without setting any goals'.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How do I stay motivated to exercise?",
+    "content": "'Set small, achievable goals and reward myself'<s>'Wait until I feel like doing it without setting any goals'"
+  },
+  {
+    "idx": 6,
+    "user_question": "I have a preference to share regarding 'What's the best way to resolve a conflict?': 'Communicate openly and listen to the other person's perspective' is my choice, while 'Avoid the issue and hope it goes away' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What's the best way to resolve a conflict?",
+    "content": "'Communicate openly and listen to the other person's perspective'<s>'Avoid the issue and hope it goes away'"
+  },
+  {
+    "idx": 7,
+    "user_question": "For the question 'How should I manage my time better?', I prefer 'Make a to-do list and prioritize the most important tasks' and dislike 'Try to remember everything without writing anything down'.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I manage my time better?",
+    "content": "'Make a to-do list and prioritize the most important tasks'<s>'Try to remember everything without writing anything down'"
+  },
+  {
+    "idx": 8,
+    "user_question": "My preference to the question 'What's the best way to learn a new language?' is that 'Practice speaking every day and learn from mistakes' is preferred, while 'Only study grammar rules without practicing conversation' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What's the best way to learn a new language?",
+    "content": "'Practice speaking every day and learn from mistakes'<s>'Only study grammar rules without practicing conversation'"
+  },
+  {
+    "idx": 9,
+    "user_question": "I want to provide my preference regarding 'How should I take care of my mental health?': 'Take regular breaks, exercise, and talk to friends or a professional' is my preferred option, whereas 'Keep working without rest until I can't handle stress anymore' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I take care of my mental health?",
+    "content": "'Take regular breaks, exercise, and talk to friends or a professional'<s>'Keep working without rest until I can't handle stress anymore'"
+  },
+  {
+    "idx": 10,
+    "user_question": "Here is my preference regarding 'What should I do if my friend is upset?': 'Listen to them without judgment and offer support' is my preference, while 'Tell them they are overreacting and need to calm down' is rejected.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What should I do if my friend is upset?",
+    "content": "'Listen to them without judgment and offer support'<s>'Tell them they are overreacting and need to calm down'"
+  },
+  {
+    "idx": 11,
+    "user_question": "I'd like to provide my preference regarding 'How can I reduce screen time?': I prefer 'Set daily screen time limits and replace it with offline activities' over 'Ignore the problem and continue spending hours on the screen'.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How can I reduce screen time?",
+    "content": "'Set daily screen time limits and replace it with offline activities'<s>'Ignore the problem and continue spending hours on the screen'"
+  },
+  {
+    "idx": 12,
+    "user_question": "My preference regarding 'What should I do if I'm feeling overwhelmed?' is as follows: 'Take deep breaths, break tasks into smaller steps, and ask for help if needed' is preferred, while 'Try to do everything at once without any rest' is disliked.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What should I do if I'm feeling overwhelmed?",
+    "content": "'Take deep breaths, break tasks into smaller steps, and ask for help if needed'<s>'Try to do everything at once without any rest'"
+  },
+  {
+    "idx": 13,
+    "user_question": "I want to give my preference regarding 'What is the best way to handle a mistake at work?': 'Acknowledge the mistake, learn from it, and take corrective actions' is preferred, while 'Blame someone else to avoid the consequences' is not my choice.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What is the best way to handle a mistake at work?",
+    "content": "'Acknowledge the mistake, learn from it, and take corrective actions'<s>'Blame someone else to avoid the consequences'"
+  },
+  {
+    "idx": 14,
+    "user_question": "Here is my preference for the question 'How can I be more environmentally friendly?': 'Reduce, reuse, recycle, and try to minimize plastic use' is preferred, whereas 'Ignore the environment and keep using single-use plastics' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How can I be more environmentally friendly?",
+    "content": "'Reduce, reuse, recycle, and try to minimize plastic use'<s>'Ignore the environment and keep using single-use plastics'"
+  },
+  {
+    "idx": 15,
+    "user_question": "I would like to share my preference regarding 'How do I start my day positively?': 'Practice gratitude, exercise, and plan my goals for the day' is my choice, while 'Wake up, immediately check social media, and rush into tasks' is rejected.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How do I start my day positively?",
+    "content": "'Practice gratitude, exercise, and plan my goals for the day'<s>'Wake up, immediately check social media, and rush into tasks'"
+  },
+  {
+    "idx": 16,
+    "user_question": "Here is my preference for 'How should I handle constructive criticism?': 'Listen attentively, understand the feedback, and apply it' is preferred, while 'Ignore the feedback and assume I'm always right' is not liked.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I handle constructive criticism?",
+    "content": "'Listen attentively, understand the feedback, and apply it'<s>'Ignore the feedback and assume I'm always right'"
+  },
+  {
+    "idx": 17,
+    "user_question": "For the question 'What's the best way to save money?', I prefer 'Create a budget and track my spending to control expenses' and dislike 'Spend money impulsively without any thought for saving'.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What's the best way to save money?",
+    "content": "'Create a budget and track my spending to control expenses'<s>'Spend money impulsively without any thought for saving'"
+  },
+  {
+    "idx": 18,
+    "user_question": "My preference regarding 'How can I maintain healthy relationships?' is that 'Communicate openly, respect boundaries, and show appreciation' is preferred, whereas 'Avoid communication and ignore the other person's needs' is not chosen.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How can I maintain healthy relationships?",
+    "content": "'Communicate openly, respect boundaries, and show appreciation'<s>'Avoid communication and ignore the other person's needs'"
+  },
+  {
+    "idx": 19,
+    "user_question": "I want to provide my preference for 'What's the best way to manage stress?': 'Engage in regular physical activity, practice mindfulness, and take breaks' is preferred, while 'Bury myself in work and avoid rest' is disliked.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What's the best way to manage stress?",
+    "content": "'Engage in regular physical activity, practice mindfulness, and take breaks'<s>'Bury myself in work and avoid rest'"
+  },
+  {
+    "idx": 20,
+    "user_question": "Here is my preference regarding 'How should I approach learning a new skill?': 'Break down the skill into manageable parts and practice regularly' is preferred, whereas 'Try to master everything at once without a plan' is rejected.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I approach learning a new skill?",
+    "content": "'Break down the skill into manageable parts and practice regularly'<s>'Try to master everything at once without a plan'"
+  },
+  {
+    "idx": 21,
+    "user_question": "I would like to share my preference for 'How do I stay productive while working from home?': 'Create a dedicated workspace and set a routine' is my choice, while 'Work from the bed and take unscheduled naps' is not preferred.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How do I stay productive while working from home?",
+    "content": "'Create a dedicated workspace and set a routine'<s>'Work from the bed and take unscheduled naps'"
+  },
+  {
+    "idx": 22,
+    "user_question": "For the question 'What's the best way to apologize?', I prefer 'Acknowledge the mistake, express genuine remorse, and ask how to make it right' and dislike 'Say sorry without meaning it and expect immediate forgiveness'.",
+    "operation_name": "preference_alignment",
+    "custom_input": "What's the best way to apologize?",
+    "content": "'Acknowledge the mistake, express genuine remorse, and ask how to make it right'<s>'Say sorry without meaning it and expect immediate forgiveness'"
+  },
+  {
+    "idx": 23,
+    "user_question": "My preference for 'How should I stay hydrated throughout the day?' is as follows: 'Carry a water bottle and set reminders to drink water' is preferred, while 'Only drink when I feel very thirsty and ignore hydration otherwise' is rejected.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How should I stay hydrated throughout the day?",
+    "content": "'Carry a water bottle and set reminders to drink water'<s>'Only drink when I feel very thirsty and ignore hydration otherwise'"
+  },
+  {
+    "idx": 24,
+    "user_question": "I want to provide my preference regarding 'How do I approach a challenging project?': 'Break it down into smaller, manageable tasks and tackle each one by one' is preferred, whereas 'Wait until the last minute and then rush to complete everything at once' is not liked.",
+    "operation_name": "preference_alignment",
+    "custom_input": "How do I approach a challenging project?",
+    "content": "'Break it down into smaller, manageable tasks and tackle each one by one'<s>'Wait until the last minute and then rush to complete everything at once'"
+  }
+]
+

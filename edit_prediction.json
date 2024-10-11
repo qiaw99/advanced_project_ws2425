@@ -1,0 +1,220 @@
+[
+  {
+    "idx": 0,
+    "user_question": "Could you please edit the prediction of the question 'Pineapple does not grow on trees?' to True",
+    "operation_name": "edit_prediction",
+    "custom_input": "Pineapple does not grow on trees?",
+    "content": "True"
+  },
+  {
+    "idx": 1,
+    "user_question": "Please change the prediction of the question 'Whales are mammals?' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Whales are mammals?",
+    "content": "True"
+  },
+  {
+    "idx": 2,
+    "user_question": "Can you modify the prediction for 'The Earth is flat?' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "The Earth is flat?",
+    "content": "False"
+  },
+  {
+    "idx": 3,
+    "user_question": "I'd like you to edit the prediction of 'Bats are blind?' to False.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Bats are blind?",
+    "content": "False"
+  },
+  {
+    "idx": 4,
+    "user_question": "Could you update the prediction of the statement 'Humans can breathe underwater without any equipment?' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Humans can breathe underwater without any equipment?",
+    "content": "False"
+  },
+  {
+    "idx": 5,
+    "user_question": "Please adjust the prediction for the question 'Venus is the hottest planet in our solar system?' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Venus is the hottest planet in our solar system?",
+    "content": "True"
+  },
+  {
+    "idx": 6,
+    "user_question": "Can you edit the prediction of 'The Great Wall of China can be seen from space with the naked eye?' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "The Great Wall of China can be seen from space with the naked eye?",
+    "content": "False"
+  },
+  {
+    "idx": 7,
+    "user_question": "Please modify the prediction for 'Penguins can fly?' to False.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Penguins can fly?",
+    "content": "False"
+  },
+  {
+    "idx": 8,
+    "user_question": "Could you change the prediction of 'Sharks lay eggs?' to True?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Sharks lay eggs?",
+    "content": "True"
+  },
+  {
+    "idx": 9,
+    "user_question": "I'd like you to adjust the prediction of the question 'Water boils at 90 degrees Celsius at sea level?' to False.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Water boils at 90 degrees Celsius at sea level?",
+    "content": "False"
+  },
+  {
+    "idx": 10,
+    "user_question": "Please modify the prediction for 'A tomato is a fruit?' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "A tomato is a fruit?",
+    "content": "True"
+  },
+  {
+    "idx": 11,
+    "user_question": "Can you change the prediction for 'Lightning always strikes the same place?' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Lightning always strikes the same place?",
+    "content": "False"
+  },
+  {
+    "idx": 12,
+    "user_question": "I'd like the prediction of 'The moon has its own light source?' to be edited to False.",
+    "operation_name": "edit_prediction",
+    "custom_input": "The moon has its own light source?",
+    "content": "False"
+  },
+  {
+    "idx": 13,
+    "user_question": "Could you adjust the prediction of 'Dogs are omnivores?' to True?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Dogs are omnivores?",
+    "content": "True"
+  },
+  {
+    "idx": 14,
+    "user_question": "Please change the prediction for 'Gold is a good conductor of electricity?' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Gold is a good conductor of electricity?",
+    "content": "True"
+  },
+  {
+    "idx": 15,
+    "user_question": "Can you modify the prediction of 'An ostrich can fly like an eagle?' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "An ostrich can fly like an eagle?",
+    "content": "False"
+  },
+  {
+    "idx": 16,
+    "user_question": "Could you please change the prediction for 'The Amazon rainforest produces more than 20 percent of the world's oxygen and is often called the lungs of the planet' to True?",
+    "operation_name": "edit_prediction",
+    "custom_input": "The Amazon rainforest produces more than 20 percent of the world's oxygen and is often called the lungs of the planet",
+    "content": "True"
+  },
+  {
+    "idx": 17,
+    "user_question": "I want you to edit the prediction of 'The Great Wall of China, which spans over 13,000 miles, was built in a single continuous effort' to False.",
+    "operation_name": "edit_prediction",
+    "custom_input": "The Great Wall of China, which spans over 13,000 miles, was built in a single continuous effort",
+    "content": "False"
+  },
+  {
+    "idx": 18,
+    "user_question": "Please modify the prediction of the question 'A group of flamingos is called a flamboyance, and they turn pink because of their diet' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "A group of flamingos is called a flamboyance, and they turn pink because of their diet",
+    "content": "True"
+  },
+  {
+    "idx": 19,
+    "user_question": "Could you change the prediction of 'Lightning strikes hotter than the surface of the sun and is capable of reaching temperatures up to 30,000 Kelvin' to True?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Lightning strikes hotter than the surface of the sun and is capable of reaching temperatures up to 30,000 Kelvin",
+    "content": "True"
+  },
+  {
+    "idx": 20,
+    "user_question": "I'd like you to update the prediction for 'Dolphins communicate with each other using a variety of clicks, whistles, and body movements, which can be understood by other members of their pod' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Dolphins communicate with each other using a variety of clicks, whistles, and body movements, which can be understood by other members of their pod",
+    "content": "True"
+  },
+  {
+    "idx": 21,
+    "user_question": "Can you edit the prediction of 'Mars is known as the blue planet because it appears blue in the night sky' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Mars is known as the blue planet because it appears blue in the night sky",
+    "content": "False"
+  },
+  {
+    "idx": 22,
+    "user_question": "Please update the prediction for 'Owls are able to rotate their heads up to 270 degrees without damaging the blood vessels in their neck' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Owls are able to rotate their heads up to 270 degrees without damaging the blood vessels in their neck",
+    "content": "True"
+  },
+  {
+    "idx": 23,
+    "user_question": "Could you modify the prediction of 'The Sahara Desert is the largest desert in the world, covering an area roughly equivalent to the United States' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "The Sahara Desert is the largest desert in the world, covering an area roughly equivalent to the United States",
+    "content": "False"
+  },
+  {
+    "idx": 24,
+    "user_question": "I would like the prediction of 'The human brain continues to grow new neurons throughout life, especially in areas responsible for memory and learning' to be edited to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "The human brain continues to grow new neurons throughout life, especially in areas responsible for memory and learning",
+    "content": "True"
+  },
+  {
+    "idx": 25,
+    "user_question": "Please modify the prediction of 'Octopuses have three hearts, and their blood is blue because of a copper-based molecule called hemocyanin' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Octopuses have three hearts, and their blood is blue because of a copper-based molecule called hemocyanin",
+    "content": "True"
+  },
+  {
+    "idx": 26,
+    "user_question": "Can you change the prediction for 'Mount Everest, the tallest peak on Earth, is completely covered in ice throughout the entire year' to False?",
+    "operation_name": "edit_prediction",
+    "custom_input": "Mount Everest, the tallest peak on Earth, is completely covered in ice throughout the entire year",
+    "content": "False"
+  },
+  {
+    "idx": 27,
+    "user_question": "Could you update the prediction for 'An adult blue whale’s heart weighs approximately 400 pounds and is about the size of a small car' to True?",
+    "operation_name": "edit_prediction",
+    "custom_input": "An adult blue whale’s heart weighs approximately 400 pounds and is about the size of a small car",
+    "content": "True"
+  },
+  {
+    "idx": 28,
+    "user_question": "Please modify the prediction of the question 'Hummingbirds are the only birds that can fly backwards as well as hover in one place for long periods' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Hummingbirds are the only birds that can fly backwards as well as hover in one place for long periods",
+    "content": "True"
+  },
+  {
+    "idx": 29,
+    "user_question": "I would like you to change the prediction of 'The North Pole is warmer than the South Pole because it is surrounded by the Arctic Ocean' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "The North Pole is warmer than the South Pole because it is surrounded by the Arctic Ocean",
+    "content": "True"
+  },
+  {
+    "idx": 30,
+    "user_question": "Please edit the prediction for 'Koalas sleep for up to 22 hours a day due to their low-energy diet of eucalyptus leaves' to True.",
+    "operation_name": "edit_prediction",
+    "custom_input": "Koalas sleep for up to 22 hours a day due to their low-energy diet of eucalyptus leaves",
+    "content": "True"
+  }
+]
+

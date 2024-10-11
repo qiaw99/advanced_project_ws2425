@@ -1,0 +1,206 @@
+[
+  {
+    "idx": 0,
+    "user_question": "Your explanation is wrong! 'The sky is always orange.' cannot be true!",
+    "operation_name": "feedback",
+    "custom_input": "'The sky is always orange.' cannot be true!"
+  },
+  {
+    "idx": 1,
+    "user_question": "The provided counterfactual example seem not flip the prediction.",
+    "operation_name": "feedback",
+    "custom_input": "The provided counterfactual example seem not flip the prediction."
+  },
+  {
+    "idx": 2,
+    "user_question": "The augmented instances look differently compared to the original one",
+    "operation_name": "feedback",
+    "custom_input": "The augmented instances look differently compared to the original one"
+  },
+  {
+    "idx": 3,
+    "user_question": "The counterfactual explanation doesn't seem plausible given the context.",
+    "operation_name": "feedback",
+    "custom_input": "The counterfactual explanation doesn't seem plausible given the context"
+  },
+  {
+    "idx": 4,
+    "user_question": "I don't think the similarity score for 'Cats are nocturnal' is correct.",
+    "operation_name": "feedback",
+    "custom_input": "The similarity score for 'Cats are nocturnal' is incorrect"
+  },
+  {
+    "idx": 5,
+    "user_question": "The natural language explanation provided is vague and doesn't explain why the prediction was made.",
+    "operation_name": "feedback",
+    "custom_input": "The natural language explanation provided is vague and doesn't explain why the prediction was made"
+  },
+  {
+    "idx": 6,
+    "user_question": "The augmented instances are not representative of the original statement.",
+    "operation_name": "feedback",
+    "custom_input": "The augmented instances are not representative of the original statement"
+  },
+  {
+    "idx": 7,
+    "user_question": "The explanation of 'Birds can swim' does not logically connect to the given output.",
+    "operation_name": "feedback",
+    "custom_input": "The explanation of 'Birds can swim' does not logically connect to the given output"
+  },
+  {
+    "idx": 8,
+    "user_question": "The counterfactual seems to have the same prediction, which shouldn't be the case.",
+    "operation_name": "feedback",
+    "custom_input": "The counterfactual seems to have the same prediction, which shouldn't be the case"
+  },
+  {
+    "idx": 9,
+    "user_question": "The generated similar examples don't really reflect the original meaning or context.",
+    "operation_name": "feedback",
+    "custom_input": "The generated similar examples don't really reflect the original meaning or context"
+  },
+  {
+    "idx": 10,
+    "user_question": "It appears that the natural language explanation contradicts the model's output.",
+    "operation_name": "feedback",
+    "custom_input": "The natural language explanation contradicts the model's output"
+  },
+  {
+    "idx": 11,
+    "user_question": "The augmented versions lack diversity and seem almost identical to the original instance.",
+    "operation_name": "feedback",
+    "custom_input": "The augmented versions lack diversity and seem almost identical to the original instance"
+  },
+  {
+    "idx": 12,
+    "user_question": "The counterfactual example you provided does not flip the label effectively.",
+    "operation_name": "feedback",
+    "custom_input": "The counterfactual example does not flip the label effectively"
+  },
+  {
+    "idx": 13,
+    "user_question": "The similar instance provided is inaccurate and does not match the context of the original statement.",
+    "operation_name": "feedback",
+    "custom_input": "The similar instance provided is inaccurate and does not match the context of the original statement"
+  },
+  {
+    "idx": 14,
+    "user_question": "The explanation lacks important details and does not clarify the model’s reasoning well.",
+    "operation_name": "feedback",
+    "custom_input": "The explanation lacks important details and does not clarify the model’s reasoning well"
+  },
+  {
+    "idx": 15,
+    "user_question": "The augmented instances you provided are misleading and do not help understand the generalization ability.",
+    "operation_name": "feedback",
+    "custom_input": "The augmented instances are misleading and do not help understand the generalization ability"
+  },
+  {
+    "idx": 16,
+    "user_question": "The counterfactual generated is not realistic and does not align with the original example's intent.",
+    "operation_name": "feedback",
+    "custom_input": "The counterfactual generated is not realistic and does not align with the original example's intent"
+  },
+  {
+    "idx": 17,
+    "user_question": "The examples labeled as similar seem to differ significantly from the input example's semantics.",
+    "operation_name": "feedback",
+    "custom_input": "The examples labeled as similar seem to differ significantly from the input example's semantics"
+  },
+  {
+    "idx": 18,
+    "user_question": "Hallucination detected: 'Polar bears live in Antarctica' is incorrect. They only live in the Arctic.",
+    "operation_name": "feedback",
+    "custom_input": "'Polar bears live in Antarctica' is incorrect. They only live in the Arctic"
+  },
+  {
+    "idx": 19,
+    "user_question": "The explanation is incorrect. 'Humans can photosynthesize like plants' is a fabricated fact and makes no sense.",
+    "operation_name": "feedback",
+    "custom_input": "'Humans can photosynthesize like plants' is a fabricated fact and makes no sense"
+  },
+  {
+    "idx": 20,
+    "user_question": "The statement 'The Eiffel Tower is located in London' is entirely fabricated. Please correct this hallucination.",
+    "operation_name": "feedback",
+    "custom_input": "The statement 'The Eiffel Tower is located in London' is entirely fabricated"
+  },
+  {
+    "idx": 21,
+    "user_question": "Hallucination identified: 'Sharks breathe air through lungs' is not true. Sharks use gills to breathe in water.",
+    "operation_name": "feedback",
+    "custom_input": "'Sharks breathe air through lungs' is not true. Sharks use gills to breathe in water"
+  },
+  {
+    "idx": 22,
+    "user_question": "Incorrect response! 'Mount Everest is located in Africa' is a clear hallucination. It is actually in Asia.",
+    "operation_name": "feedback",
+    "custom_input": "'Mount Everest is located in Africa' is a clear hallucination. It is actually in Asia"
+  },
+  {
+    "idx": 23,
+    "user_question": "The claim 'Gold is magnetic' is incorrect and seems like a hallucination. Gold is not a magnetic metal.",
+    "operation_name": "feedback",
+    "custom_input": "The claim 'Gold is magnetic' is incorrect. Gold is not a magnetic metal"
+  },
+  {
+    "idx": 24,
+    "user_question": "Hallucination alert: 'The Amazon River flows through Australia' is completely false. It flows through South America.",
+    "operation_name": "feedback",
+    "custom_input": "'The Amazon River flows through Australia' is completely false. It flows through South America"
+  },
+  {
+    "idx": 25,
+    "user_question": "The statement 'Humans have 4 hearts like a cow' is a clear hallucination. Humans have only one heart.",
+    "operation_name": "feedback",
+    "custom_input": "The statement 'Humans have 4 hearts like a cow' is a clear hallucination. Humans have only one heart"
+  },
+  {
+    "idx": 26,
+    "user_question": "'The Sahara Desert is covered in ice' is incorrect and appears to be a hallucinated fact. The Sahara is a hot desert.",
+    "operation_name": "feedback",
+    "custom_input": "'The Sahara Desert is covered in ice' is incorrect. The Sahara is a hot desert"
+  },
+  {
+    "idx": 27,
+    "user_question": "'Pyramids were built in 1950' is wrong. The pyramids were built thousands of years ago in ancient Egypt.",
+    "operation_name": "feedback",
+    "custom_input": "'Pyramids were built in 1950' is wrong. The pyramids were built thousands of years ago in ancient Egypt"
+  },
+  {
+    "idx": 28,
+    "user_question": "'Penguins can fly like eagles' is completely fabricated and misleading.",
+    "operation_name": "feedback",
+    "custom_input": "'Penguins can fly like eagles' is completely fabricated and misleading"
+  },
+  {
+    "idx": 29,
+    "user_question": "The response 'Venus is the closest planet to the Sun' is incorrect. Mercury is actually the closest.",
+    "operation_name": "feedback",
+    "custom_input": "'Venus is the closest planet to the Sun' is incorrect. Mercury is actually the closest"
+  },
+  {
+    "idx": 30,
+    "user_question": "Warning: 'Bees are reptiles' is a fabricated fact and is entirely incorrect. Bees are insects.",
+    "operation_name": "feedback",
+    "custom_input": "'Bees are reptiles' is a fabricated fact and is entirely incorrect. Bees are insects"
+  },
+  {
+    "idx": 31,
+    "user_question": "'The Statue of Liberty is in Rome' is false. It is located in New York City, USA.",
+    "operation_name": "feedback",
+    "custom_input": "'The Statue of Liberty is in Rome' is false. It is located in New York City, USA"
+  },
+  {
+    "idx": 32,
+    "user_question": "'Whales have feathers to keep warm' is an incorrect and hallucinated statement. Whales are mammals with blubber.",
+    "operation_name": "feedback",
+    "custom_input": "'Whales have feathers to keep warm' is an incorrect and hallucinated statement. Whales are mammals with blubber"
+  },
+  {
+    "idx": 33,
+    "user_question": "'The Great Wall of China was built in the 21st century' is a hallucination. It was built over 2,000 years ago.",
+    "operation_name": "feedback",
+    "custom_input": "'The Great Wall of China was built in the 21st century' is a hallucination. It was built over 2,000 years ago"
+  }
+]

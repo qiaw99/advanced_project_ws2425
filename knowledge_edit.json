@@ -1,0 +1,189 @@
+[
+  {
+    "idx": 0,
+    "user_question": "I would like to change the knowledge: 'the color of apple is blue'",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'the color of apple is blue'"
+  },
+  {
+    "idx": 1,
+    "user_question": "Can you modify the knowledge: 'the moon is made of cheese'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'the moon is made of cheese'"
+  },
+  {
+    "idx": 2,
+    "user_question": "I'd like to update the statement: 'dogs can fly like birds'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'dogs can fly like birds'"
+  },
+  {
+    "idx": 3,
+    "user_question": "Please change the information: 'penguins live in the Sahara Desert'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'penguins live in the Sahara Desert'"
+  },
+  {
+    "idx": 4,
+    "user_question": "I want to correct the knowledge: 'water is flammable'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'water is flammable'"
+  },
+  {
+    "idx": 5,
+    "user_question": "Could you edit this knowledge: 'humans can survive without oxygen'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'humans can survive without oxygen'"
+  },
+  {
+    "idx": 6,
+    "user_question": "Please revise the statement: 'bananas grow underground'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'bananas grow underground'"
+  },
+  {
+    "idx": 7,
+    "user_question": "Can we change the fact: 'whales are insects'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'whales are insects'"
+  },
+  {
+    "idx": 8,
+    "user_question": "I'd like to alter the knowledge: 'Mount Everest is located in Australia'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Mount Everest is located in Australia'"
+  },
+  {
+    "idx": 9,
+    "user_question": "Please update the information: 'the sun rises in the west'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'the sun rises in the west'"
+  },
+  {
+    "idx": 10,
+    "user_question": "Can you correct this knowledge: 'gold is a type of vegetable'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'gold is a type of vegetable'"
+  },
+  {
+    "idx": 11,
+    "user_question": "I'd like to change the statement: 'elephants are smaller than mice'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'elephants are smaller than mice'"
+  },
+  {
+    "idx": 12,
+    "user_question": "Could you edit the fact: 'gravity makes things float upward'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'gravity makes things float upward'"
+  },
+  {
+    "idx": 13,
+    "user_question": "Please modify this knowledge: 'the Earth is flat and has no curvature'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'the Earth is flat and has no curvature'"
+  },
+  {
+    "idx": 14,
+    "user_question": "I want to update the information: 'dinosaurs are still alive and live in cities'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'dinosaurs are still alive and live in cities'"
+  },
+  {
+    "idx": 15,
+    "user_question": "Can you revise the statement: 'the Atlantic Ocean is a desert'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'the Atlantic Ocean is a desert'"
+  },
+  {
+    "idx": 16,
+    "user_question": "Please update the information: 'The Amazon rainforest is a small patch of desert with no plant life or animals whatsoever'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The Amazon rainforest is a small patch of desert with no plant life or animals whatsoever'"
+  },
+  {
+    "idx": 17,
+    "user_question": "Could you modify the statement: 'All cars run on water and never require any other fuel or energy sources'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'All cars run on water and never require any other fuel or energy sources'"
+  },
+  {
+    "idx": 18,
+    "user_question": "I'd like to correct the knowledge: 'Humans can breathe underwater naturally without the use of any equipment or technology'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Humans can breathe underwater naturally without the use of any equipment or technology'"
+  },
+  {
+    "idx": 19,
+    "user_question": "Please change the information: 'The Eiffel Tower was built by aliens in the 1700s and has nothing to do with France'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The Eiffel Tower was built by aliens in the 1700s and has nothing to do with France'"
+  },
+  {
+    "idx": 20,
+    "user_question": "Can you revise the statement: 'Lightning always strikes the same place repeatedly without any variation'? It seems wrong.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Lightning always strikes the same place repeatedly without any variation'"
+  },
+  {
+    "idx": 21,
+    "user_question": "Please correct the knowledge: 'The Great Wall of China is a myth and doesn’t actually exist'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The Great Wall of China is a myth and doesn’t actually exist'"
+  },
+  {
+    "idx": 22,
+    "user_question": "Could you edit the information: 'The internet is a tangible network of wires that can be picked up and carried around'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The internet is a tangible network of wires that can be picked up and carried around'"
+  },
+  {
+    "idx": 23,
+    "user_question": "I want to update the statement: 'Stars are tiny fireflies stuck in the sky and glow because of their wings'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Stars are tiny fireflies stuck in the sky and glow because of their wings'"
+  },
+  {
+    "idx": 24,
+    "user_question": "Can you revise the knowledge: 'Electricity is made by rubbing two ice cubes together'?",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Electricity is made by rubbing two ice cubes together'"
+  },
+  {
+    "idx": 25,
+    "user_question": "Please change the information: 'Mount Everest is underwater and is the smallest mountain in the world'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Mount Everest is underwater and is the smallest mountain in the world'"
+  },
+  {
+    "idx": 26,
+    "user_question": "Could you update the statement: 'Fish can walk on land and do not need water to survive'? It seems incorrect.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Fish can walk on land and do not need water to survive'"
+  },
+  {
+    "idx": 27,
+    "user_question": "I'd like to modify the knowledge: 'The Sahara Desert is covered entirely in snow for most of the year'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The Sahara Desert is covered entirely in snow for most of the year'"
+  },
+  {
+    "idx": 28,
+    "user_question": "Please edit the statement: 'The human heart pumps lemonade through the body instead of blood'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The human heart pumps lemonade through the body instead of blood'"
+  },
+  {
+    "idx": 29,
+    "user_question": "I want to correct the information: 'The Pacific Ocean is completely made of chocolate milk'.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'The Pacific Ocean is completely made of chocolate milk'"
+  },
+  {
+    "idx": 30,
+    "user_question": "Could you change the knowledge: 'Birds migrate to outer space during winter to avoid the cold'? It doesn’t seem accurate.",
+    "operation_name": "knowledge_edit",
+    "custom_input": "'Birds migrate to outer space during winter to avoid the cold'"
+  }
+]
+

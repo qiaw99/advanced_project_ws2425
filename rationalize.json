@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "user_question": "Can you provide me natural language explanation for 'dogs see not only in black and white'?",
+    "operation_name": "rationalize",
+    "custom_input": "dogs see not only in black and white"
+  },
+  {
+    "idx": 1,
+    "user_question": "Could you give me a natural language explanation for 'the sky appears blue due to Rayleigh scattering'?",
+    "operation_name": "rationalize",
+    "custom_input": "the sky appears blue due to Rayleigh scattering"
+  },
+  {
+    "idx": 2,
+    "user_question": "Can you explain in simple terms why 'birds are able to navigate long distances during migration'?",
+    "operation_name": "rationalize",
+    "custom_input": "birds are able to navigate long distances during migration"
+  },
+  {
+    "idx": 3,
+    "user_question": "I would like a natural language explanation for 'the moon has phases due to its position relative to the Earth and Sun'.",
+    "operation_name": "rationalize",
+    "custom_input": "the moon has phases due to its position relative to the Earth and Sun"
+  },
+  {
+    "idx": 4,
+    "user_question": "Can you provide a natural language explanation for why 'humans need sleep for maintaining cognitive function'?",
+    "operation_name": "rationalize",
+    "custom_input": "humans need sleep for maintaining cognitive function"
+  },
+  {
+    "idx": 5,
+    "user_question": "Please give me a natural language explanation for 'water expands when it freezes because of the formation of a crystalline structure'.",
+    "operation_name": "rationalize",
+    "custom_input": "water expands when it freezes because of the formation of a crystalline structure"
+  },
+  {
+    "idx": 6,
+    "user_question": "Can you explain in simple language why 'plants perform photosynthesis to create their own food'?",
+    "operation_name": "rationalize",
+    "custom_input": "plants perform photosynthesis to create their own food"
+  },
+  {
+    "idx": 7,
+    "user_question": "Could you provide a natural language explanation for 'electric current flows through a conductor due to the movement of electrons'?",
+    "operation_name": "rationalize",
+    "custom_input": "electric current flows through a conductor due to the movement of electrons"
+  },
+  {
+    "idx": 8,
+    "user_question": "I'd like an explanation in natural language about 'ice floats on water because it is less dense than liquid water'.",
+    "operation_name": "rationalize",
+    "custom_input": "ice floats on water because it is less dense than liquid water"
+  },
+  {
+    "idx": 9,
+    "user_question": "Can you provide a natural language explanation for 'sound travels faster in water than in air'?",
+    "operation_name": "rationalize",
+    "custom_input": "sound travels faster in water than in air"
+  },
+  {
+    "idx": 10,
+    "user_question": "Explain in simple terms why 'Earth experiences different seasons due to the tilt of its axis'?",
+    "operation_name": "rationalize",
+    "custom_input": "Earth experiences different seasons due to the tilt of its axis"
+  },
+  {
+    "idx": 11,
+    "user_question": "Can you provide a natural language explanation for 'bats use echolocation to navigate and find food at night'?",
+    "operation_name": "rationalize",
+    "custom_input": "bats use echolocation to navigate and find food at night"
+  },
+  {
+    "idx": 12,
+    "user_question": "Could you explain in simple terms why 'whales need to surface to breathe air despite living in water'?",
+    "operation_name": "rationalize",
+    "custom_input": "whales need to surface to breathe air despite living in water"
+  },
+  {
+    "idx": 13,
+    "user_question": "I need a natural language explanation of 'rainbows form when light is refracted and reflected inside water droplets in the atmosphere'.",
+    "operation_name": "rationalize",
+    "custom_input": "rainbows form when light is refracted and reflected inside water droplets in the atmosphere"
+  },
+  {
+    "idx": 14,
+    "user_question": "Can you provide an explanation in natural language for 'honey never spoils because of its low moisture content and high acidity'?",
+    "operation_name": "rationalize",
+    "custom_input": "honey never spoils because of its low moisture content and high acidity"
+  },
+  {
+    "idx": 15,
+    "user_question": "Explain in simple language why 'chameleons change color to communicate and regulate their body temperature'.",
+    "operation_name": "rationalize",
+    "custom_input": "chameleons change color to communicate and regulate their body temperature"
+  },
+  {
+    "idx": 16,
+    "user_question": "Can you give a natural language explanation for 'the ozone layer protects living organisms by absorbing harmful ultraviolet radiation'?",
+    "operation_name": "rationalize",
+    "custom_input": "the ozone layer protects living organisms by absorbing harmful ultraviolet radiation"
+  },
+  {
+    "idx": 17,
+    "user_question": "Please provide me with a natural language explanation of 'spiders produce silk that is used to build webs, capture prey, and create egg sacs'.",
+    "operation_name": "rationalize",
+    "custom_input": "spiders produce silk that is used to build webs, capture prey, and create egg sacs"
+  },
+  {
+    "idx": 18,
+    "user_question": "I'd like an explanation in natural language for why 'elephants have large ears that help regulate their body temperature'.",
+    "operation_name": "rationalize",
+    "custom_input": "elephants have large ears that help regulate their body temperature"
+  },
+  {
+    "idx": 19,
+    "user_question": "Can you provide a natural language explanation for 'lightning occurs due to the buildup and discharge of electrical energy in clouds'?",
+    "operation_name": "rationalize",
+    "custom_input": "lightning occurs due to the buildup and discharge of electrical energy in clouds"
+  },
+  {
+    "idx": 20,
+    "user_question": "Could you explain in simple terms why 'penguins are able to keep warm in cold environments thanks to their thick layer of blubber and dense feathers'?",
+    "operation_name": "rationalize",
+    "custom_input": "penguins are able to keep warm in cold environments thanks to their thick layer of blubber and dense feathers"
+  }
+]
